@@ -1,0 +1,38 @@
+.main{
+    background-color: black;
+    height: 50vh;
+    width:120%;
+    border-radius: 2em;
+    padding-top: 3em;
+}
+
+.name{
+    font-size: 1em;
+    color: white;
+  
+    
+}
+
+.input{
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+    border:  none;
+    outline: none;
+    border:1px red;
+    margin-left: 1em;
+    margin-top: 0.2em;
+}
+
+.submit{
+    margin-top: 20px;
+    padding: 1em;
+    border-radius: 8px;
+    cursor: pointer;
+    border: none;
+}
+
+.submit :hover{
+    background-color: red;
+    cursor: pointer;
+}
